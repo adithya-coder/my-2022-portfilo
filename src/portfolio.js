@@ -25,7 +25,7 @@ const settings = {
     subTitle:
       "I am a good team player and self-motivated individual who is willing to take on new challenges. I am currently looking for an opportunity to join an organization that has a good reputation in the industry where I can develop and use my software engineering skills and knowledge while adding value to the company. ",
     resumeLink:
-      "https://drive.google.com/file/d/1si1e3QHwRTlLQxT3jFyVDn96_c_Rw76O/view?usp=sharing",
+      "https://drive.google.com/file/d/1t7Vl3FOWcAPBhuSTHYnifg50xh0NGo4a/view?usp=sharing",
     portfolio_repository: "https://github.com/adithya-coder/",
     githubProfile: "https://github.com/adithya-coder/",
   };
