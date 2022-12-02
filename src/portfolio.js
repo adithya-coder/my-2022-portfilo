@@ -261,13 +261,13 @@ const skills = {
             color: "#4285F4",
           },
         },
-        //   {
-        //     skillName: "AWS",
-        //     fontAwesomeClassname: "simple-icons:amazonaws",
-        //     style: {
-        //       color: "#FF9900",
-        //     },
-        //   },
+          {
+            skillName: "AWS",
+            fontAwesomeClassname: "simple-icons:amazonaws",
+            style: {
+              color: "#FF9900",
+            },
+          },
         {
           skillName: "Azure",
           fontAwesomeClassname: "simple-icons:microsoftazure",
@@ -534,6 +534,17 @@ const experience = {
     {
       title: "Work",
       experiences: [
+        {
+          title: "Software engineer",
+          company: "Dialog Axiata",
+          company_url: "https://www.dialog.lk",
+          logo_path: "dialog.png",
+          duration: "November 2022 - PRESENT",
+          location: "No.475, Union Place, Colombo 2, Colombo, Sri Lanka ",
+          // description:
+          //   "I am working on automating healthcare products. The projects involve automation for process improvements and for significantly enhancing the profits. I am currently working on Cancer Survival and Reoccurence Prediction. Our goal is to make AI system which scales and removes doctor dependency as much as possible.",
+          color: "#0879bf",
+        },
         {
           title: " Associate software engineer",
           company: " Zincat Technology",
